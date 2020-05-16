@@ -1,0 +1,3 @@
+rootProject.name='SingleLiveEventProject'
+include ':app'
+include ':live_event_library'
